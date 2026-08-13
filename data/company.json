@@ -1,0 +1,77 @@
+{
+  "companyName": "Wadaje Motors India",
+  "tagline": "Launching Soon",
+  "description": "Building the Future of Agricultural Engineering and Manufacturing.",
+  "subDescription": "Our products and services are currently under development. Meanwhile, you can verify our official business documents below.",
+  "about": {
+    "title": "About Us",
+    "paragraphs": [
+      "Wadaje Motors India is an emerging company preparing to launch innovative engineering and manufacturing solutions.",
+      "Our mission is to deliver quality, reliability and customer trust."
+    ]
+  },
+  "services": [
+    {
+      "id": "agri-equipment",
+      "title": "Agricultural Equipment",
+      "status": "Coming Soon"
+    },
+    {
+      "id": "engineering-solutions",
+      "title": "Engineering Solutions",
+      "status": "Coming Soon"
+    },
+    {
+      "id": "manufacturing-services",
+      "title": "Manufacturing Services",
+      "status": "Coming Soon"
+    },
+    {
+      "id": "custom-fabrication",
+      "title": "Custom Fabrication",
+      "status": "Coming Soon"
+    }
+  ],
+  "documents": [
+    {
+      "id": "gst-certificate",
+      "title": "GST Certificate",
+      "file": "/documents/gst-certificate.pdf",
+      "verified": true
+    },
+    {
+      "id": "udyam-registration",
+      "title": "Udyam Registration",
+      "file": "/documents/udyam-registration.pdf",
+      "verified": true
+    },
+    {
+      "id": "shop-act-license",
+      "title": "Shop Act License",
+      "file": "/documents/shop-act-license.pdf",
+      "verified": true
+    },
+    {
+      "id": "Import Export",
+      "title": "Import Export",
+      "file": "/documents/Import Export Code..pdf",
+      "verified": true
+    }
+  ],
+  "contact": {
+    "companyName": "Wadaje Motors India",
+    "phone": "+91 98765 43210",
+    "email": " wadajemotors@gmail.com",
+    "address": "Address.: Shop No. 1, A Wing, Vastuved Building, Near old RTO office, Behind Taran Talav, Near City Pride Hotel, Tilakwadi Road, Tilakwadi, Nashik, Maharashtra, India - 422002.",
+    "whatsapp": " +91 9822877117"
+  },
+  "footer": {
+    "quickLinks": [
+      { "label": "Home", "href": "#home" },
+      { "label": "Documents", "href": "#documents" },
+      { "label": "About", "href": "#about" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "copyright": "© 2026 Wadaje Motors India. All rights reserved."
+  }
+}
