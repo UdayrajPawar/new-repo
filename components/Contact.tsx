@@ -31,8 +31,7 @@ export default function Contact({ company }: { company: CompanyData }) {
       label: "Address",
       value: contact.address,
       href: `https://maps.google.com/?q=${encodeURIComponent(
-        contact.address
-      )}`,
+        contact.address )}`,
     },
   ];
 
