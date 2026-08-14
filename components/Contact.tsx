@@ -24,14 +24,15 @@ export default function Contact({ company }: { company: CompanyData }) {
       icon: MessageCircle,
       label: "WhatsApp",
       value: "Chat with us",
-      href: `https://wa.me/${contact.whatsapp}`,
+      href: `https://wa.me/${contact.whatsapp.trim()}`,
     },
     {
       icon: MapPin,
       label: "Address",
       value: contact.address,
       href: `https://maps.google.com/?q=${encodeURIComponent(
-        contact.address )}`,
+        contact.address
+)}`,
     },
   ];
 
