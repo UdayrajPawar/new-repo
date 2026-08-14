@@ -24,7 +24,7 @@ export default function Contact({ company }: { company: CompanyData }) {
       icon: MessageCircle,
       label: "WhatsApp",
       value: "Chat with us",
-      href: `https://wa.me/${contact.whatsapp}`,
+      href: `https://wa.me/+919822877117 ",
     },
     {
       icon: MapPin,
