@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import Documents from "@/components/Documents";
+//import Documents from "@/components/Documents";
 import About from "@/components/About";
 import ComingSoon from "@/components/ComingSoon";
 import Social from "@/components/Social";
