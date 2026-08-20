@@ -1,4 +1,4 @@
-"use client";
+/*"use client";
 
 import { motion } from "framer-motion";
 import { BadgeCheck, Download, FileText, Eye } from "lucide-react";
@@ -69,4 +69,4 @@ export default function Documents({ company }: { company: CompanyData }) {
       </div>
     </section>
   );
-}
+}*/
