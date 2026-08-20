@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-<Documents />
+import Documents from "@/components/Documents";
 import About from "@/components/About";
 import ComingSoon from "@/components/ComingSoon";
 import Social from "@/components/Social";
@@ -14,7 +14,7 @@ export default function Home() {
     <main className="min-h-screen bg-offwhite">
       <Navbar company={companyData} />
       <Hero company={companyData} />
-      <Documents company={companyData} />
+      <Documents />
       <About company={companyData} />
       <ComingSoon company={companyData} />
       <Social socials={socialsData.socials} />
