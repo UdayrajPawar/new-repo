@@ -77,7 +77,7 @@ export default function Hero({ company }: { company: CompanyData }) {
         >
           <a href="#documents" className="btn-primary">
             <FileText size={18} />
-            View Documents
+            About Us
           </a>
           <a href="#contact" className="btn-secondary">
             <MessageCircle size={18} />
