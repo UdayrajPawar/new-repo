@@ -13,7 +13,7 @@ export default function Documents({ company }: { company: CompanyData }) {
             <FileText size={14} />
             Business Credentials
           </span>
-         <h2 className="section-heading">Official Company Documents</h2>
+         <h2 className="section-heading">fficial Company Documents</h2>
           <p className="mt-4 text-navy/60">
             Verify our business credentials and registrations.
           </p>
