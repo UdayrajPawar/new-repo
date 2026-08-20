@@ -11,7 +11,7 @@ export default function Documents({ company }: { company: CompanyData }) {
         <div className="mx-auto max-w-2xl text-center">
           <span className="section-eyebrow mb-4">
             <FileText size={14} />
-            Business Credentials
+            usiness Credentials
           </span>
          <h2 className="section-heading">Official Company Documents</h2>
           <p className="mt-4 text-navy/60">
